@@ -1,5 +1,0 @@
-package Settings
-
-func main() {
-
-}
